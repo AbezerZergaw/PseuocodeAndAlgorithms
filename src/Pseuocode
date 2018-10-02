@@ -1,0 +1,42 @@
+ATM App
+
+Initialize validInput to zero
+Initialize accountNumber
+Initialize PIN as number
+Initialize current balance as number
+
+
+   display "Enter your PIN"
+
+while validInput <3
+  If PIN is correct
+    display "choose what you want to do"
+      display "Deposit"
+      display "Withdrawal"
+      display "Balance"
+
+   else
+        display "Invalid PIN"
+        validInput= validInput+1
+end while
+
+  display "Choose"
+    if  input = deposit
+      Add deposit to current balance
+      print current balance
+    else if chose =
+
+  if PIN is correct
+       input withdrawal amount
+       withdrawal amount - current balance
+       print current balance
+  endif
+
+   if PIN is not correct
+      display "Try again"
+   endif
+
+    if Input Invalid PIN 3x
+       display "Account Locked"
+    endif
+

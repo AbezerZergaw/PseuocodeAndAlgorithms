@@ -1,0 +1,61 @@
+ATM Deposit
+
+INPUT
+-Account number
+-PIN
+
+Process
+-Prompt user for account number
+-validate the account number
+-Save the account number in variable
+-Prompt user for PIN
+-Validate the PIN
+-Save the PIN in variable
+-Prompt user to deposit
+-Add money to the current balance
+- Add Current balance and deposited amount
+-Put new balance in total
+-Print total
+
+Out Put
+-Total
+
+----------------------------------
+
+ATM Withdraws
+INPUT
+-Account number
+-PIN
+
+Process
+-Prompt user for account number
+-validate the account number
+-Save the account number in variable
+-Prompt user for PIN
+-Validate the PIN
+-Save the PIN in variable
+-Prompt user for withdrawal amount
+-Subtract from the available balance if the available balance is not zero
+-Put new balance minus available balance in remaining balance
+-Print remaining balance
+
+Out Put
+- Remaining balance
+
+----------------------------------
+
+Checking Balance
+Input
+-Account number
+-PIN
+
+Process
+-Prompt user for account number
+-Validate account number
+-Save account number in variable
+-Prompt user for PIN
+-Validate PIN number
+-Save PIN in variable
+-Give option for the user to choose for remaining balance
+-Print remaining balance
+
